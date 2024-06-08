@@ -1,11 +1,8 @@
-# Algorithms in C++
+# Algorithms Collection in C++
 
-This repository contains implementations of various algorithms in C++. These algorithms cover a range of common tasks and problem-solving techniques.
-
-## Introduction
-
-Algorithms are fundamental to computer science and programming. They provide efficient solutions to various computational problems. This repository aims to provide clear and concise implementations of these algorithms in C++.
-
+Welcome to the Algorithms Collection repository! This repository contains implementations of various common algorithms in C++. These algorithms are designed to help you understand and utilize basic algorithmic concepts such as searching, recursion, and mathematical computations.
+## Table of Contents
+- [Algorithms Included](Algorithms Included)
 ## Algorithms Included
 
 1. **Factorial Algorithm**
