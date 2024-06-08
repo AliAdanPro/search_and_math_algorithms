@@ -2,10 +2,14 @@
 
 Welcome to the Algorithms Collection repository! This repository contains implementations of various common algorithms in C++. These algorithms are designed to help you understand and utilize basic algorithmic concepts such as searching, recursion, and mathematical computations.
 ## Table of Contents
-- [Algorithms Included](Algorithms Included)
+- [Algorithms Included](#Algorithms-Included)
+- [Getting Started](#Getting-Started)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [License](#License)
 ## Algorithms Included
 
-1. **Factorial Algorithm**
++ **Factorial Algorithm**
    - Computes the factorial of a given number.
    - [Source Code](./Factorial.h)
 2. **Power Algorithm**
