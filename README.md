@@ -15,14 +15,9 @@ Welcome to the Algorithms Collection repository! This repository contains implem
 6. **Binary Search Algorithm**: Searches for an element in a sorted array using the binary search method
 ## Getting Started
 ### Prerequisites
-Tk compile and run the code, you will need:
+To compile and run the code, you will need:
 - A C++ compiler (like g++)
 - A command line interface
 
 ## License
 Feel free to take the code and edit it the way you like or use it.
-
-```sh
-g++ -o algorithms main.cpp
-./algorithms
-
